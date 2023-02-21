@@ -8,55 +8,55 @@
     {
       "text": "Сложность программы растет до тех пор, пока не превысит способности программиста",
       "author": "Артур Блох. Законы Мэрфи"
-      "text": "The complexity of the program grows until it exceeds the ability of the programmer.",
-      "author": "Arthur Bloch. Murphy's laws"
+      "textEn": "The complexity of the program grows until it exceeds the ability of the programmer.",
+      "authorEn": "Arthur Bloch. Murphy's laws"
     },
     {
       "text": "Не волнуйтесь, если что-то не работает. Если бы всё работало, вас бы уволили.",
       "author": "Закон Мошера"
-      "text": "Don't worry if something doesn't work. If everything worked, you would be fired.",
-      "author": "Mosher’s Law"
+      "textEn": "Don't worry if something doesn't work. If everything worked, you would be fired.",
+      "authorEn": "Mosher’s Law"
     },
     {
       "text": "В хорошем дизайне добавление чего-то стоит дешевле, чем сама эта вещь.",
       "author": "Томас С. Гейл"
-      "text": "In good design, adding something costs less than the thing itself.",
-      "author": "Thomas C. Gale"
+      "textEn": "In good design, adding something costs less than the thing itself.",
+      "authorEn": "Thomas C. Gale"
     },
     {
       "text": "Иногда лучше остаться спать дома в понедельник, чем провести всю неделю в отладке написанного в понедельник кода.",
       "author": "Кристофер Томпсон"
-      "text": "Sometimes it's better to stay home on Monday than to spend the whole week debugging code written on Monday.",
-      "author": "Christopher Thompson"
+      "textEn": "Sometimes it's better to stay home on Monday than to spend the whole week debugging code written on Monday.",
+      "authorEn": "Christopher Thompson"
     },
     {
       "text": "Измерять продуктивность программиста подсчетом строк кода — это так же, как оценивать постройку самолета по его весу.",
       "author": "Билл Гейтс"
-      "text": "Measuring a programmer's productivity by counting lines of code is like judging an airplane's build by its weight.",
-      "author": "Bill Gates"
+      "textEn": "Measuring a programmer's productivity by counting lines of code is like judging an airplane's build by its weight.",
+      "authorEn": "Bill Gates"
     },
     {
       "text": "Отладка кода — это как охота. Охота на баги.",
       "author": "Амит Калантри"
-      "text": "Debugging code is like hunting. Hunting for bugs.",
-      "author": "Amit Kalantri"
+      "textEn": "Debugging code is like hunting. Hunting for bugs.",
+      "authorEn": "Amit Kalantri"
     },
     {
       "text": "Иногда лучшие программы создаются на бумажке. Запрограммировать их — второстепенная вещь.",
       "author": "Макс Канат-Александр"
-      "text": "Sometimes the best programs are written on paper. Programming them is a secondary thing.",
-      "author": "Max Kanat-Alexander"
+      "textEn": "Sometimes the best programs are written on paper. Programming them is a secondary thing.",
+      "authorEn": "Max Kanat-Alexander"
     },
     {
       "text": "Простота — залог надежности.",
       "author": "Эдсгер В. Дейкстра"
-      "text": "Simplicity is the key to reliability.",
-      "author": "Edsger W. Dijkstra"
+      "textEn": "Simplicity is the key to reliability.",
+      "authorEn": "Edsger W. Dijkstra"
     },
     {
       "text": "Работает? Не трогай.",
       "author": "Любой программист"
-      "text": "Works? Do not touch.",
-      "author": "Any programmer"
+      "textEn": "Works? Do not touch.",
+      "authorEn": "Any programmer"
     }
   ]  
