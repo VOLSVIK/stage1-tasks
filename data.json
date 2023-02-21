@@ -2,85 +2,61 @@
     {
       "text": "Пишите код так, как будто сопровождать его будет склонный к насилию психопат, который знает, где вы живете",
       "author": "Стив Макконнелл"
+      "textEn": "Write code as if it were accompanied by a violent psychopath who knows where you live",
+      "authorEn": "Steve McConnell"
     },
     {
       "text": "Сложность программы растет до тех пор, пока не превысит способности программиста",
       "author": "Артур Блох. Законы Мэрфи"
-    },
-        {
-      "text": "Пишите код так, как будто сопровождать его будет склонный к насилию психопат, который знает, где вы живете",
-      "author": "Стив Макконнелл"
+      "text": "The complexity of the program grows until it exceeds the ability of the programmer.",
+      "author": "Arthur Bloch. Murphy's laws"
     },
     {
       "text": "Не волнуйтесь, если что-то не работает. Если бы всё работало, вас бы уволили.",
+      "author": "Закон Мошера"
+      "text": "Don't worry if something doesn't work. If everything worked, you would be fired.",
       "author": "Mosher’s Law"
     },
-        {
+    {
       "text": "В хорошем дизайне добавление чего-то стоит дешевле, чем сама эта вещь.",
+      "author": "Томас С. Гейл"
+      "text": "In good design, adding something costs less than the thing itself.",
       "author": "Thomas C. Gale"
     },
     {
-      "text": "В теории, теория и практика неразделимы. На практике это не так.",
-      "author": "Yoggi Berra"
-    },
-        {
       "text": "Иногда лучше остаться спать дома в понедельник, чем провести всю неделю в отладке написанного в понедельник кода.",
+      "author": "Кристофер Томпсон"
+      "text": "Sometimes it's better to stay home on Monday than to spend the whole week debugging code written on Monday.",
       "author": "Christopher Thompson"
     },
     {
       "text": "Измерять продуктивность программиста подсчетом строк кода — это так же, как оценивать постройку самолета по его весу.",
+      "author": "Билл Гейтс"
+      "text": "Measuring a programmer's productivity by counting lines of code is like judging an airplane's build by its weight.",
       "author": "Bill Gates"
-    },
-        {
-      "text": "Многие из вас знакомы с достоинствами программиста. Их всего три, и разумеется это: лень, нетерпеливость и гордыня.",
-      "author": "Larry Wall"
-    },
-    {
-      "text": "Люди, которые думают, что ненавидят компьютеры, на самом деле ненавидят плохих программистов.",
-      "author": "Larry Niven"
-    },
-        {
-      "text": "Язык, который не меняет вашего представления о программировании, недостоин изучения.",
-      "author": "Alan J. Perlis"
     },
     {
       "text": "Отладка кода — это как охота. Охота на баги.",
+      "author": "Амит Калантри"
+      "text": "Debugging code is like hunting. Hunting for bugs.",
       "author": "Amit Kalantri"
     },
-        {
+    {
       "text": "Иногда лучшие программы создаются на бумажке. Запрограммировать их — второстепенная вещь.",
+      "author": "Макс Канат-Александр"
+      "text": "Sometimes the best programs are written on paper. Programming them is a secondary thing.",
       "author": "Max Kanat-Alexander"
     },
     {
-      "text": "Программирование — это разбиение чего-то большого и невозможного на что-то маленькое и вполне реальное.",
-      "author": "Jazzwant"
-    },
-        {
       "text": "Простота — залог надежности.",
+      "author": "Эдсгер В. Дейкстра"
+      "text": "Simplicity is the key to reliability.",
       "author": "Edsger W. Dijkstra"
     },
     {
       "text": "Работает? Не трогай.",
       "author": "Любой программист"
-    },
-        {
-      "text": "Java — это C++, из которого убрали все пистолеты, ножи и дубинки.",
-      "author": "James Gosling"
-    },
-    {
-      "text": "Если бы в Java действительно работала сборка мусора, большинство программ бы удаляли сами себя при первом же запуске.",
-      "author": "Robert Sewell"
-    },
-        {
-      "text": "Молодые специалисты не умеют работать, а опытные специалисты умеют не работать.",
-      "author": "Alexander Golov"
-    },
-        {
-      "text": "To iterate is human, to recurse divine.",
-      "author": "L. Peter Deutsch"
-    },
-      {
-      "text": "Ходить по воде и разрабатывать программы, следуя ТЗ, очень просто… если они заморожены",
-      "author": "И. Берард"
+      "text": "Works? Do not touch.",
+      "author": "Any programmer"
     }
   ]  
